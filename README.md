@@ -23,8 +23,9 @@ app.get("/webhook", function(req) {
 ## License
 
 This package is licensed under the Apache License Version 2.0.
-You can copy, modify and distribute the bot client in source and/or binary form.
+You can copy, modify and distribute the xhub middleware in source and/or binary form.
 Please mark all modifications clearly as being the work of the modifier.
+The software is provided "as is", without warranties or conditions of any kind.
 
 ## Changelog
 
