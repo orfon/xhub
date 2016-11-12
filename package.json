@@ -1,0 +1,34 @@
+{
+    "name": "xhub",
+    "version": "1.0",
+    "description": "X-Hub signature verification middleware for stick.",
+    "keywords": [
+        "github",
+        "messenger",
+        "bots",
+        "chatbots"
+    ],
+    "homepage": "https://github.com/orfon/xhub/",
+    "author": {
+        "name": "Philipp Naderer",
+        "email": "philipp.naderer@orf.at",
+        "web": "http://github.com/orfon/"
+    },
+    "contributors": [],
+    "repositories": [{
+        "type": "git",
+        "url": "https://github.com/orfon/xhub.git"
+    }],
+    "bugs": "http://github.com/orfon/xhub/issues",
+    "licenses": [{
+        "type": "Apache License Version 2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+    }],
+    "dependencies": {
+        "stick": ">=0.5.0"
+    },
+    "engines": {
+        "ringojs": ">= 1.0.0"
+    },
+    "main": "./lib/xhub"
+}
